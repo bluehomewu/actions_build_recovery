@@ -3,7 +3,7 @@
   "twrp_branch": "fox_9.0",
   "git_username": "bluehomewu",
   "git_email": "bluehome.wu@gmail.com",
-  "use_own_dt": ture,
+  "use_own_dt": true,
   "dt_url": "bluehomewu/twrp_device_asus_X00I",
   "dt_branch": "omni-9.0",
   "dt_remote": "github",
